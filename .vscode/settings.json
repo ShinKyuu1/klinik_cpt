@@ -1,0 +1,8 @@
+{
+	"php.debug.executablePath": "",
+	"php.validate.executablePath": "",
+	"php.files.exclude": [],
+	"python.analysis.fixAll": [
+        
+    ]
+}
